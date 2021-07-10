@@ -2,7 +2,7 @@
 Cambios en otro branch
 
 ## Section 1
-Para el branch main voy a hacer cambios aqui en seccion1
+Un cambio extra para revisar funcionalidad de git add -A
 ## Section 2
 Me devolví un commit para tratar de borrar cambios y ahora quiero avanzar obviando los cambios que quise borrar al devolverme
 
