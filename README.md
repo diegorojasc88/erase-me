@@ -2,7 +2,7 @@
 Cambios en otro branch
 
 ## Section 1
-A esta seccion se le va a hacer commit
+Para el branch main voy a hacer cambios aqui en seccion1
 ## Section 2
 Descripcion de Section 2
 
